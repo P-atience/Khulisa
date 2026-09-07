@@ -1,10 +1,10 @@
 KHULISA — SME Funding Readiness Platform
-📌 Project Overview
+Project Overview
 KHULISA is a web-based SME Funding Readiness Platform designed to assist small and medium-sized business owners in understanding and improving their readiness for business funding.
 The platform evaluates an SME's current business and financial position, identifies areas requiring improvement, and provides tools that help business owners prepare for funding opportunities.
 KHULISA provides a central platform where SME owners can complete a funding-readiness assessment, monitor their progress, develop a business plan, prepare cash-flow forecasts, manage supporting documents and view potential funding opportunities.
 The system also provides Mentor and Administrator functionality for supporting and managing SMEs on the platform.
-🎯 Project Objectives
+ Project Objectives
 The main objectives of KHULISA are to:
 Assess the funding readiness of SMEs.
 Calculate an overall funding-readiness score.
@@ -18,7 +18,7 @@ Allow SMEs to track their progress.
 Generate funding-readiness reports.
 Allow mentors to monitor and support SMEs.
 Allow administrators to manage users and funders.
-👥 User Roles
+ User Roles
 KHULISA supports different types of users.
 SME Owner
 SME owners can:
@@ -196,7 +196,7 @@ Funders
 Mentor information
 Progress
 Foreign-key relationships are used where appropriate to maintain relationships between records.
-🚀 Installation and Setup
+ Installation and Setup
 Prerequisites
 Before running KHULISA, install:
 XAMPP
